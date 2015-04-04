@@ -1,0 +1,42 @@
+BODY { 
+  background-color: #FFFFFF;
+  color: black;
+  font-family: sans;
+  font-size: large;
+  }
+
+H1,H2,H3,H4,H5,H6 {
+  font-family: sans-serif;
+  }
+
+P,UL {
+  font-family: sans-serif;
+  }
+
+TD, TH {
+  font-family: sans-serif;
+  }
+
+BLOCKQUOTE,EM {
+  font-family: sans-serif;
+  }
+
+A:hover {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+A {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+
+
+/* Some classes */
+.more {
+    text-decoration: none;
+}
+.nolink{
+    text-decoration: none;
+}
